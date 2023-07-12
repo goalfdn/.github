@@ -1,4 +1,4 @@
-# Gift of a Life Foundation
+# [Gift of a Life Foundation](https://www.goalfoundation.us)
 
 We are Goal Foundation, a different kind of tech company.
 
