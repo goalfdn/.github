@@ -16,6 +16,10 @@ Be pioneers in technology to **address inequities** in our communities.
 - [Nikhil Zen](https://github.com/therealnikhil)
 - [Brian Kieffer](https://github.com/bkieffer04)
 - [Min He](https://github.com/mmbliv)
+- [Mike Langdon](https://github.com/Mike-D-Langdon)
+- [Michael Raymond](https://github.com/mjr2595)
+- [Roman Liang](https://github.com/silverhaand)
+- [Peter Ng](https://github.com/PetN5026)
 
 ## Our Git flow
 
