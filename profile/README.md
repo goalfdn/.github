@@ -12,14 +12,14 @@ To revolutionize **mental healthcare** by bringing together *psychology research
 Be pioneers in technology to **address inequities** in our communities.
 
 ## Our Development Team
-- [**Hamza Naeem**](https://github.com/hamzilitary)
-- [Nikhil Zen](https://github.com/therealnikhil)
-- [Brian Kieffer](https://github.com/bkieffer04)
-- [Min He](https://github.com/mmbliv)
-- [Mike Langdon](https://github.com/Mike-D-Langdon)
-- [Michael Raymond](https://github.com/mjr2595)
-- [Roman Liang](https://github.com/silverhaand)
-- [Peter Ng](https://github.com/PetN5026)
+- [**Hamza Naeem**](https://github.com/hamzilitary) Full Stack 
+- [Nikhil Zen](https://github.com/therealnikhil)  Full Stack 
+- [Brian Kieffer](https://github.com/bkieffer04) Frontend 
+- [Min He](https://github.com/mmbliv) Frontend 
+- [Mike Langdon](https://github.com/Mike-D-Langdon) Backend 
+- [Michael Raymond](https://github.com/mjr2595) Full Stack 
+- [Roman Liang](https://github.com/silverhaand)  Frontend 
+- [Peter Ng](https://github.com/PetN5026) Full Stack
 
 ## Our Git flow
 
